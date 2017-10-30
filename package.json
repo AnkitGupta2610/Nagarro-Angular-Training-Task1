@@ -1,0 +1,14 @@
+{
+  "name": "todo",
+  "version": "1.0.0",
+  "description": "Todo App in Angular",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ankit gupta",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^2.5.3"
+  }
+}
