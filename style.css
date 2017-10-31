@@ -1,5 +1,5 @@
 body{
-    background-image: url("http://localhost:4000/pattern.jpg");
+    background-image: url("pattern.jpg");
 }
 .float_right{
     font-family: "Comic Sans MS";
@@ -70,7 +70,7 @@ body{
     background-color: white;
 }
 .box3{
-    background-image: url("http://localhost:4000/head.jpg");
+    background-image: url("head.jpg");
     text-align: center;
     min-height: 50px;
     padding-top: 10px;
